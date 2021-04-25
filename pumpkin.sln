@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pumpkin", "pumpkin\pumpkin.vcxproj", "{DB2FB677-D8A1-499A-8489-D6B1F9DC40F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2FB677-D8A1-499A-8489-D6B1F9DC40F2}.Debug|x64.ActiveCfg = Debug|x64
+		{DB2FB677-D8A1-499A-8489-D6B1F9DC40F2}.Debug|x64.Build.0 = Debug|x64
+		{DB2FB677-D8A1-499A-8489-D6B1F9DC40F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB2FB677-D8A1-499A-8489-D6B1F9DC40F2}.Debug|x86.Build.0 = Debug|Win32
+		{DB2FB677-D8A1-499A-8489-D6B1F9DC40F2}.Release|x64.ActiveCfg = Release|x64
+		{DB2FB677-D8A1-499A-8489-D6B1F9DC40F2}.Release|x64.Build.0 = Release|x64
+		{DB2FB677-D8A1-499A-8489-D6B1F9DC40F2}.Release|x86.ActiveCfg = Release|Win32
+		{DB2FB677-D8A1-499A-8489-D6B1F9DC40F2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {949B886A-4AEA-4A49-AC35-93833BAD73C2}
+	EndGlobalSection
+EndGlobal
